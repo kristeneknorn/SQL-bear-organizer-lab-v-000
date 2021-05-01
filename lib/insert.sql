@@ -1,1 +1,1 @@
-sqlite> INSERT INTO cats (name, age, breed, owner_id) VALUES ("Maru", 3 , "Scottish Fold", 1)
+sqlite> INSERT INTO bears (id, name, age, gender, color, tempermant,alive) VALUES (1, "Mr. Chocolate", 3 , "Male", "Black", 1)
