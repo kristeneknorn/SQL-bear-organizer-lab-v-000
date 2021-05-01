@@ -1,2 +1,3 @@
 CREATE TABLE bears (
-id I);
+id INTEGER, 
+);
